@@ -46,4 +46,4 @@ async def lol(ctx):
     await ctx.send(f'whehehehe')
 
 # Jalankan bot dengan token
-bot.run('MTE2NzAzMDgxNTY0NjA0MDE4NQ.GvM6Ti.g4ck7JYQYULPkubBjaes1IJmawNQT-sjmYpgcw')
+bot.run('[TOKEN]')
